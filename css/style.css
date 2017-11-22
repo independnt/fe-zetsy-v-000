@@ -45,3 +45,7 @@ p{
 #bottom img{
 	border: 5px solid #ccc;
 }
+
+#footer{
+	text-align: right;
+}

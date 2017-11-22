@@ -24,7 +24,8 @@ body {
 	padding-bottom: 10px;
 	font-family: "Baskerville";
 	font-size: 80px;
-	color: rgba(156,172,166,1)
+	color: rgba(156,172,166,1);
+	border-bottom: 1px #ccc
 }
 
 .gray{

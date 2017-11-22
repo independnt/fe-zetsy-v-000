@@ -20,8 +20,14 @@ body {
 }
 
 /* Write all remaining styles here */
-.gray{
+.gray #logo{
 	font-family: "Baskerville";
 	font-size: 80px;
+	color: rgba(156,172,166,1)
+}
+
+.gray{
+	font-family: "Baskerville";
+	font-size: 32px;
 	color: rgba(156,172,166,1)
 }

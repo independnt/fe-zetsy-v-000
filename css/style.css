@@ -35,7 +35,7 @@ p{
 	color: rgba(85,85,85,1)
 }
 
-#featured-image{
-	border:5px
+.featured-image{
+	border: 5px
 	rgb(152,173,166)
 }

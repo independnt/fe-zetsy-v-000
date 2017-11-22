@@ -46,6 +46,10 @@ p{
 	border: 5px solid #ccc;
 }
 
+#bottom img:hover{
+	border: 5px rgb(111,127,122) solid;
+}
+
 #footer{
 	text-align: right;
 	font-size: 12px;

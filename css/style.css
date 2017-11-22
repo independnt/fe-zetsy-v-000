@@ -37,5 +37,5 @@ p{
 
 .featured-image{
 	border: 5px;
-	color: rgb(152,173,166)
+	color: rgb(152,173,166) solid;
 }
